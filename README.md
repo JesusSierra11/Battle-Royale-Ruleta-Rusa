@@ -69,6 +69,7 @@ Una vez generado los 3 .class, toca ejecutar la aplicación, utilizando el coman
 ## 5. Manual de uso de la aplicación.
 Voy a explicar todas las partes del videojuego para que entendáis el funcionamiento de el, parte por parte voy a explicar que hace cada elemento del menú. El videojuego consiste en que hay 6 personajes, tu eliges que personaje quieres manejar, puedes cambiar de personaje en cualquier momento, el objetivo del juego al ser un battleroyal es que solamente quede uno vivo, es un juego de azar así que no puedes saber quien es el personaje que va a sobrevivir.
 	![Texto alternativo](/Imagenes/imagen7.png)
+Para moverte por el menu debes escribir un número y pulsar intro, las diferentes partes del menu son:
 1. **Seleccione a un jugador o jugadora.**:
 En esta parte simplemente tendrás que elegir un jugador, el jugador/a que selecciones es el que utilizaras para realizar cada acción, puedes cambiar de jugador en cualquier momento de la partida. Te saldrá un listado con los nombres de los jugadores. Hay 6 disponibles para elegir.
 2.  **Disparar revolver**:
