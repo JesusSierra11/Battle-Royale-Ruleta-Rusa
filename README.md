@@ -1,10 +1,5 @@
 # Battle Royale Ruleta Rusa.
-<div>
-<p align="center">
-<img src="https://laesferaquenogiramas.files.wordpress.com/2018/04/67.gif">
-</p>
-</div>
-
+![Texto alternativo](/Imagenes/imagen13.jpeg)
 **Bienvenidos al battle royale de la ruleta rusa, en el que 6 jugadores intentaran sobrevir, solo puede quedar 1 en pie, emoción, tensión y mucha adrenalina vivirás en este nuevo juego.**
 **Para empezar a jugar voy a dar una explicación paso a paso de todos los pasos que hay que seguir para poder empezar a jugar, desde como descargar el proyecto hasta como empezar a jugar.**
 1. Descargar los ficheros fuente.
@@ -62,7 +57,8 @@ Llegamos al paso de compilar los archivos descargados anteriormente para poder j
 	![Texto alternativo](/Imagenes/imagen6.png)
 
 Una vez generado los 3 .class, toca ejecutar la aplicación, utilizando el comando java nombredelarchivo.java. Por ejemplo:
-		![Texto alternativo](/Imagenes/imagen7.png)
+
+![Texto alternativo](/Imagenes/imagen7.png)
 	
 ¡Ya estamos preparados para empezar a jugar!
 ## 5. Manual de uso de la aplicación.
