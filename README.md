@@ -41,11 +41,8 @@ Para descargar Java simplemente entramos en la página y le damos a Aceptar e in
 Las variables de entorno son cadenas que contienen información acerca del entorno para el sistema y el usuario que ha iniciado sesión en ese momento. Algunos programas de software usan la información para determinar dónde se colocan los archivos (Como los archivos temporales.)
 1. **Configurar JAVA_HOME:**
  **Primero:** Para poder agregar variables de entorno escribimos "Este equipo" en el buscador de windows, hacemos clic derecho y seleccionamos la opción de **Propiedades**.
- ![Texto alternativo](/Imagenes/imagen9.png)
  **Segundo**: En esta ventana seleccionamos la opción de **Configuración avanzada del sistema.**
- ![Texto alternativo](/Imagenes/imagen10.png)
  **Tercero:** Ahora hacemos clic en el botón **Variables de entorno.**
- ![Texto alternativo](/Imagenes/imagen11.png)
  **Cuarto:** En la nueva ventana que se nos abre, le damos a nueva (en variables de usuario), en el **Nombre de la variable ponemos:** JAVA_HOME y en **Valor de la variable:** ponemos el path o ruta donde hemos instalado el JDK de Java (le damos a examinar directorio y buscamos donde tenemos instalado nuestro JDK), le damos a aceptar. Tras esto hay que reiniciar el equipo.
  ![Texto alternativo](/Imagenes/imagen12.png)
  2. **Configurar PATH:**
