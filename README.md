@@ -50,6 +50,7 @@ Las variables de entorno son cadenas que contienen información acerca del entor
  ![Texto alternativo](/Imagenes/imagen12.png)
  2. **Configurar PATH:**
  Hacemos los mismos pasos que anteriormente, con la diferencia que ahora nos iremos a variables de sistema, de **Nombre de la variable pondremos:** PATH y en **Valor de la variable:** %JAVA_HOME%\bin y le daremos a aceptar.
+ ![Texto alternativo](/Imagenes/imagen14.png)
  Una vez después de configurar el JAVA_HOME y el PATH, le damos a aceptar y se guardarían los cambios.
  Con estos pasos ya tendríamos configuradas nuestras variables de entorno.
 ## 4. Compilar y ejecutar la aplicación por 		          		consola.
