@@ -1,5 +1,5 @@
 # Battle Royale Ruleta Rusa.
-![Texto alternativo](/Imagenes/imagen13.jpg)
+![Texto alternativo](https://laesferaquenogiramas.files.wordpress.com/2018/04/67.gif)
 **Bienvenidos al battle royale de la ruleta rusa, en el que 6 jugadores intentaran sobrevir, solo puede quedar 1 en pie, emoción, tensión y mucha adrenalina vivirás en este nuevo juego.**
 **Para empezar a jugar voy a dar una explicación paso a paso de todos los pasos que hay que seguir para poder empezar a jugar, desde como descargar el proyecto hasta como empezar a jugar.**
 1. Descargar los ficheros fuente.
