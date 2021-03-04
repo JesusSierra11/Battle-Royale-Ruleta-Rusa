@@ -1,4 +1,9 @@
 # Battle Royale Ruleta Rusa.
+<div>
+<p style = 'text-align:center;'>
+<img src="https://laesferaquenogiramas.files.wordpress.com/2018/04/67.gif">
+</p>
+</div>
 <p align="center">![Texto alternativo](https://laesferaquenogiramas.files.wordpress.com/2018/04/67.gif)</p>
 
 **Bienvenidos al battle royale de la ruleta rusa, en el que 6 jugadores intentaran sobrevir, solo puede quedar 1 en pie, emoción, tensión y mucha adrenalina vivirás en este nuevo juego.**
