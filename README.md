@@ -41,13 +41,14 @@ Para descargar Java simplemente entramos en la página y le damos a Aceptar e in
 Las variables de entorno son cadenas que contienen información acerca del entorno para el sistema y el usuario que ha iniciado sesión en ese momento. Algunos programas de software usan la información para determinar dónde se colocan los archivos (Como los archivos temporales.)
 1. **Configurar JAVA_HOME:**
  **Primero:** Para poder agregar variables de entorno escribimos "Este equipo" en el buscador de windows, hacemos clic derecho y seleccionamos la opción de **Propiedades**.
- **Segundo**: En esta ventana seleccionamos la opción de **Configuración avanzada del sistema.**
- **Tercero:** Ahora hacemos clic en el botón **Variables de entorno.**
- **Cuarto:** En la nueva ventana que se nos abre, le damos a nueva (en variables de usuario), en el **Nombre de la variable ponemos:** JAVA_HOME y en **Valor de la variable:** ponemos el path o ruta donde hemos instalado el JDK de Java (le damos a examinar directorio y buscamos donde tenemos instalado nuestro JDK), le damos a aceptar. Tras esto hay que reiniciar el equipo.
- ![Texto alternativo](/Imagenes/imagen12.png)
+ 
+	 **Segundo**: En esta ventana seleccionamos la opción de **Configuración avanzada del sistema.**
+ 
+	 **Tercero:** Ahora hacemos clic en el botón **Variables de entorno.**
+ 
+	 **Cuarto:** En la nueva ventana que se nos abre, le damos a nueva (en variables de usuario), en el **Nombre de la variable ponemos:** JAVA_HOME y en **Valor de la variable:** ponemos el path o ruta donde hemos instalado el JDK de Java (le damos a examinar directorio y buscamos donde tenemos instalado nuestro JDK), le damos a aceptar. Tras esto hay que reiniciar el equipo.
  2. **Configurar PATH:**
  Hacemos los mismos pasos que anteriormente, con la diferencia que ahora nos iremos a variables de sistema, de **Nombre de la variable pondremos:** PATH y en **Valor de la variable:** %JAVA_HOME%\bin y le daremos a aceptar.
- ![Texto alternativo](/Imagenes/imagen14.png)
  Una vez después de configurar el JAVA_HOME y el PATH, le damos a aceptar y se guardarían los cambios.
  Con estos pasos ya tendríamos configuradas nuestras variables de entorno.
 ## 4. Compilar y ejecutar la aplicación por 		          		consola.
